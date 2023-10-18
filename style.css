@@ -1,0 +1,13 @@
+* {
+    font-family: Verdana, "Geneva", Tahoma, sans-serif;
+}
+.recipe {
+    text-align: center;
+}
+h1,h2,div,desc{
+    text-align: center;
+}
+ul,ol {
+    display: inline-block;
+    text-align: left;
+}
